@@ -68,12 +68,6 @@ Combine multiple visualizations on a dashboard, adding filters and tooltips for 
 Storytelling:
 Use Tableau’s Story feature to create a narrative around key findings.
 Export & Share: Export the dashboard as a PDF or share it on Tableau Public (optional).
-4. Analysis Summary
-This project aims to answer the following questions:
 
-Which pizzas are the top-sellers?
-What are the peak sales times?
-How do different customer demographics affect purchase behavior?
-What are the seasonal trends in pizza sales?
 5. Conclusion
 This analysis provides a comprehensive view of pizza sales performance, enabling data-driven decision-making in areas like menu planning, staffing, and marketing strategies. The findings from Power BI and Tableau dashboards are accessible to stakeholders for ongoing insights and performance monitoring.
