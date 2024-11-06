@@ -94,6 +94,7 @@ Apply filters to drill into specific regions or product categories.
 Export reports or share the dashboard with stakeholders.
 
 **Conclusion**
+
 This project demonstrates how to integrate SQL, Excel, Power BI, and Tableau to create a comprehensive and interactive sales report for a pizza business. By leveraging the power of these tools, you can effectively analyze and visualize large datasets to uncover actionable insights that can inform business strategies and improve decision-making.
 
 
