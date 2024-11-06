@@ -1,4 +1,4 @@
-**Pizza Sales Report** 
+                                                                              **Pizza Sales Report** 
 **Project Overview**
 This project presents a comprehensive Pizza Sales Report that aggregates, analyzes, and visualizes sales data from a fictional pizza business. The report is built using various tools like Excel, Power BI, Tableau, and SQL to process, analyze, and display insights into the sales performance.
 
@@ -10,11 +10,14 @@ Visualize key performance indicators (KPIs) like revenue, units sold, average or
 Provide actionable insights for business decision-making.
 
 **Tools Used**
+
 SQL: For data extraction and querying from the relational database.
 Excel: For initial data cleaning, analysis, and basic reporting.
 Power BI: For interactive dashboards and visualizations.
 Tableau: For more advanced data visualizations and reporting.
+
 **Data Sources**
+
 The project uses a simulated sales database containing the following tables:
 
 Sales: Contains records of each sale (OrderID, Date, ProductID, Quantity, TotalPrice, etc.).
@@ -24,6 +27,7 @@ Regions: Details about the sales regions (RegionID, RegionName).
 Time: Date and time dimensions for reporting (Date, Month, Year, DayOfWeek).
 
 **Steps to Reproduce the Report**
+
 1. SQL Data Extraction
 Connect to the database containing the sales data.
 Use the sales_queries.sql script to extract relevant data (such as sales by region, product, and time period).
@@ -68,6 +72,7 @@ Regional Sales Breakdown: Compare sales performance across different geographic 
 Customer Insights: Understanding of customer preferences and purchase frequency.
 
 **How to Use the Report**
+
 In Excel:
 Open the Pizza_Sales_Report.xlsx file.
 Review the Pivot Tables for summarized sales data.
