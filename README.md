@@ -1,5 +1,7 @@
-                                                                              **Pizza Sales Report** 
+**Pizza Sales Report** 
+
 **Project Overview**
+
 This project presents a comprehensive Pizza Sales Report that aggregates, analyzes, and visualizes sales data from a fictional pizza business. The report is built using various tools like Excel, Power BI, Tableau, and SQL to process, analyze, and display insights into the sales performance.
 
 **The goal of the project is to:**
